@@ -37,7 +37,7 @@ This project was developed by leveraging AI (ChatGPT) for ideation and optimizat
 
 - Nick Robb | Cybersecurity Professional
 - Email: Nick.T.Robb@gmail.com
-- LinkedIn: [Nick Robb](https://www.linkedin.com/in/nickrobb/)
+- LinkedIn: [Nicholas Robb](https://www.linkedin.com/in/nicholas-robb-22097b1b8)
 
 ---
 
