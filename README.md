@@ -1,7 +1,6 @@
 # SQL Injection Tester — Lightweight Web App Vulnerability Scanner
 
-**SQL Injection Tester** is a lightweight Python tool designed to automate the testing of login forms for common SQL Injection (SQLi) vulnerabilities.  
-Built for efficient testing in home labs, CTF challenges, and authorized penetration tests, this tool emphasizes speed, modularity, and real-world attack simulation.
+**SQL Injection Tester** is a lightweight Python tool designed to automate the testing of login forms for common SQL Injection (SQLi) vulnerabilities. Built for efficient testing in home labs, CTF challenges, and authorized penetration tests, this tool emphasizes speed, modularity, and real-world attack simulation.
 
 ---
 
@@ -22,8 +21,7 @@ Built for efficient testing in home labs, CTF challenges, and authorized penetra
 
 ## 📌 About This Project
 
-The initial development of this tool was supported through AI-assisted ideation (ChatGPT) to optimize SQL payload testing and detection logic.  
-Final implementation, testing, and optimization were performed manually using real-world scenarios in a controlled home lab environment.
+The initial development of this tool was supported through AI-assisted ideation (ChatGPT) to optimize SQL payload testing and detection logic. Final implementation, testing, and optimization were performed manually using real-world scenarios in a controlled home lab environment.
 
 ---
 
@@ -50,4 +48,4 @@ Install dependencies:
 
 ```bash
 pip install requests
-
+```
